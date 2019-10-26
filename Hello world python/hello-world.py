@@ -9,5 +9,6 @@ def pyramid(n):
 x = 5
 pypart(x)
 print("Hello")
+print(" world")
 
 # https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-python/
